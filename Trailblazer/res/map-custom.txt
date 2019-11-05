@@ -1,0 +1,33 @@
+# You should put your custom graph data in here.
+
+IMAGE
+map-custom.jpg
+1503
+659
+
+VERTICES
+Holy Name Cathedral;798;264
+Northwestern University;975;291
+Navy Pier;1244;398
+Trump Tower;819;485
+Merchandise Mart; 662;476
+Newberry Library;740;163
+Water Tower Place;916;197
+Oak Street Beach;918;41
+Seward Park;568;27
+
+EDGES
+Northwestern University;Holy Name Cathedral;1720
+Northwestern University;Navy Pier; 1300
+Navy Pier; Trump Tower; 500
+Trump Tower; Merchandise Mart; 200
+Trump Tower; Holy Name Cathedral; 587
+Northwestern University; Water Tower Place; 100
+Trump Tower;Newberry Library;490
+Water Tower Place;Oak Street Beach; 190
+Holy Name Cathedral; Seward Park; 700
+Seward Park;Holy Name Cathedral; 700
+Newberry Library;Water Tower Place; 90
+Water Tower Place; Northwestern University; 300
+
+
